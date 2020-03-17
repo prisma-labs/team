@@ -1,6 +1,6 @@
 # Sprint 10 - Shiba Inu
 
-<div style="background-image:url(https://images.unsplash.com/photo-1576944184228-674b620c4015?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=900);background-position:center -450px;height:300px;"></div>
+<img src="https://images.unsplash.com/photo-1576944184228-674b620c4015?ixlib=rb-1.2.1&q=85&fm=jpg&cs=srgb&w=900&h=300&fit=crop&fp-y=.38">
 
 ## Goal
 
