@@ -1,13 +1,12 @@
 # team
 
-The Prisma Labs team space. Info, meta issues, sprint demo archive, etc.
+This is the Prisma Labs team space. Find information about our past sprint demos and more here.
 
-## Sprint Schedule
+## Working In the Open
 
-Every two weeks we finish a sprint and have a demo call where we show off work done.
+Every two weeks we finish a sprint and have a demo call where we show off work done. These occur Tuesday 11-12h Eastern Standard Time (17-18h European Central Time). The call is public using zoom. The call link is always https://prisma.zoom.us/j/161941833.
 
-- Recurring demo time: Every two weeks, Tuesday 11-12h Eastern Standard Time (17-18h European Central Time)
-- Demo call link: https://prisma.zoom.us/j/161941833
+We track sprint work in two public kanbans: [Nexus](https://github.com/orgs/graphql-nexus/projects/1), [Prisma Labs](https://github.com/orgs/prisma-labs/projects/1).
 
 ## Past Sprint Demos
 
