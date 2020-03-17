@@ -11,12 +11,6 @@
 
 #### `nexus-future`
 
-- docs: schema guide backing types
-- docs: schema guide nullability
-- docs: schema guide object type
-- docs: schema guide enum
-- docs: more schema API
-- docs: new introduction
 - fix: layout with multiple graphql modules at varying directory depths ([commit](https://github.com/graphql-nexus/nexus-future/commit/b2190af09ceefed7617cbdcb59e4ea8cfbde5ca8))
 - feat: outputs nullable by default ([commit](https://github.com/graphql-nexus/nexus-future/commit/50d3e24de6c8d5cf85319f81d768eb8352bafacd))
 - feat: setting to generate GraphQL SDL ([commit](https://github.com/graphql-nexus/nexus-future/commit/9ed366565443b2de5a956552dfffbec2c48e6923))
@@ -30,6 +24,13 @@
   - feat: support aliases ([commit](https://github.com/graphql-nexus/nexus-future/commit/c457e5230da7343683b13fa3c488ec7a148dbff7))
   - feat: support interfaces ([commit](https://github.com/graphql-nexus/nexus-future/commit/ae0c70d2726d1bb5f291d11cd5b6c7c4eb9e2fef))
   - improve: simplify return type ([commit](https://github.com/graphql-nexus/nexus-future/commit/6f687ac442641f6666101a03178aa15c5aa6db26))
+- docs:
+  - schema guide backing types
+  - schema guide nullability
+  - schema guide object type
+  - schema guide enum
+  - more schema API
+  - new introduction
 
 #### `nexus-plugn-prisma`
 
@@ -45,6 +46,7 @@
 
 - moved `prisma-labs/nexus-future-examples` to `graphql-nexus/examples`
 - moved `prisma-labs/nexus-prisma` to `graphql-nexus/nexus-prisma`
+- setup [LabelSync](https://github.com/apps/labelsync-manager) ([prisma-labs](https://github.com/prisma-labs/prisma-labs-labelsync) & [graphql-nexus](https://github.com/graphql-nexus/graphql-nexus-labelsync))
 
 ## Video
 
@@ -59,3 +61,45 @@ Will be posted later
 - Schema API docs
 
 ## Details
+
+### Outputs Nullable By Default
+
+![](feat-outputs-nullable.png)
+
+### E2E Tests for `nexus-plugin-prisma`
+
+![](nexus-plugin-prisma-e2e-test.png)
+
+### Initial Backkng Types System
+
+### GraphQL SDL Generation
+
+![](feat-graphql-sdl-gen.png)
+
+### Docs
+
+#### Intro
+
+![](docs-intro.png)
+
+#### Schema Guide
+
+![](docs-schema-guide-1.png)
+
+#### Schema Guide Type Builders
+
+![](docs-schema-guide-object.png)
+
+![](docs-schema-guide-enum.png)
+
+#### Schema Guide Backing Types
+
+![](docs-schema-guide-backing-types.png)
+
+#### Schema Guide Nullability
+
+![](docs-schema-guide-nullability.png)
+
+#### Schema API work
+
+![](docs-schema-api.png)
