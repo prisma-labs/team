@@ -1,6 +1,6 @@
 # Sprint 10 - Shiba Inu
 
-[![image](video.png)](https://prisma.zoom.us/rec/share/ve9EH-j611pOEpHm1RiGZb4tQITPeaa82yAar_oNyU6wR6Gd2K9z3z2aJYBmOeVu)
+<div style="background-image:url(https://images.unsplash.com/photo-1576944184228-674b620c4015?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=900);background-position:center -450px;height:300px;"></div>
 
 ## Goal
 
@@ -17,6 +17,10 @@
 - improve: Context type extraction in background worker
 - improve: simplified schema connections settings
 - improve: remove node-pty (native bindings) & node-ipc
+
+## Video
+
+[![image](video.png)](https://prisma.zoom.us/rec/share/ve9EH-j611pOEpHm1RiGZb4tQITPeaa82yAar_oNyU6wR6Gd2K9z3z2aJYBmOeVu)
 
 ## Details
 
