@@ -12,8 +12,8 @@
 #### `nexus-future`
 
 - fix: layout with multiple graphql modules at varying directory depths ([commit](https://github.com/graphql-nexus/nexus-future/commit/b2190af09ceefed7617cbdcb59e4ea8cfbde5ca8))
-- feat: outputs nullable by default ([commit](https://github.com/graphql-nexus/nexus-future/commit/50d3e24de6c8d5cf85319f81d768eb8352bafacd))
 - feat: setting to generate GraphQL SDL ([commit](https://github.com/graphql-nexus/nexus-future/commit/9ed366565443b2de5a956552dfffbec2c48e6923))
+- feat: outputs nullable by default ([commit](https://github.com/graphql-nexus/nexus-future/commit/50d3e24de6c8d5cf85319f81d768eb8352bafacd))
 - feat: initial backing types system ([commit](https://github.com/graphql-nexus/nexus-future/commit/bb2401fb49682ef982a1ef1537d41cb4ade4216a))
 - feat: remove `$ nexus generate` ([commit](https://github.com/graphql-nexus/nexus-future/commit/2abd73da23fd4564822bdf8c53c7d16b4b758aae))
 - `addToContext` api
@@ -55,12 +55,15 @@ Will be posted later
 ## Next Sprint
 
 - Finish the Nexus transition
-- Put forward a tentative system/direction for how schema/framework plugins play out
 - Integrate Prisma plugin docs into the Nexus website
-- Schema guide building blocks
-- Schema API docs
+- Schema guide & api docs
+- Put forward a tentative system/direction for how schema/framework plugins play out
 
 ## Details
+
+### GraphQL SDL Generation
+
+![](feat-graphql-sdl-gen.png)
 
 ### Outputs Nullable By Default
 
@@ -70,11 +73,9 @@ Will be posted later
 
 ![](nexus-plugin-prisma-e2e-test.png)
 
-### Initial Backkng Types System
+### Initial Backng Types System
 
-### GraphQL SDL Generation
-
-![](feat-graphql-sdl-gen.png)
+![](feat-backing-types.png)
 
 ### Docs
 
