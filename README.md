@@ -2,10 +2,20 @@
 
 The Prisma Labs team space. Info, meta issues, sprint demo archive, etc.
 
-## Sprint Demos
+## Sprint Schedule
 
-- [Feb 17 - #9 - Swift
-  Tide](https://prisma.zoom.us/rec/play/upcqder7-D43Gdac4QSDC_QrW9S6LPis0iBP-aEMyUexAHBQNwWvb7MTMeCqC4H7Or-D0CViu4d3LqhJ?continueMode=true)
+Every two weeks we finish a sprint and have a demo call where we show off work done.
+
+- Recurring demo time: Every two weeks, Tuesday 11-12h Eastern Standard Time (17-18h European Central Time)
+- Demo call link: https://prisma.zoom.us/j/161941833
+
+## Past Sprint Demos
+
+- [Mar 3 - #10 - Shiba Inu](https://prisma.zoom.us/rec/share/ve9EH-j611pOEpHm1RiGZb4tQITPeaa82yAar_oNyU6wR6Gd2K9z3z2aJYBmOeVu)
+
+  [![image](sprints/10/video.png)](https://prisma.zoom.us/rec/share/ve9EH-j611pOEpHm1RiGZb4tQITPeaa82yAar_oNyU6wR6Gd2K9z3z2aJYBmOeVu)
+
+- [Feb 17 - #9 - Swift Tide](https://prisma.zoom.us/rec/play/upcqder7-D43Gdac4QSDC_QrW9S6LPis0iBP-aEMyUexAHBQNwWvb7MTMeCqC4H7Or-D0CViu4d3LqhJ?continueMode=true)
 
   [![image](https://user-images.githubusercontent.com/284476/75103857-1eb52280-55cf-11ea-9bac-efe6b25556f3.png)](https://prisma.zoom.us/rec/play/upcqder7-D43Gdac4QSDC_QrW9S6LPis0iBP-aEMyUexAHBQNwWvb7MTMeCqC4H7Or-D0CViu4d3LqhJ?continueMode=true)
 

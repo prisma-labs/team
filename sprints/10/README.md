@@ -1,5 +1,7 @@
 # Sprint 10 - Shiba Inu
 
+[![image](video.png)](https://prisma.zoom.us/rec/share/ve9EH-j611pOEpHm1RiGZb4tQITPeaa82yAar_oNyU6wR6Gd2K9z3z2aJYBmOeVu)
+
 ## Goal
 
 - Nexus E2E Tests
