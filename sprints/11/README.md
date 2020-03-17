@@ -40,7 +40,7 @@
 
 - feat: support for prisma 0.23
 - chore: proper pinning of Prisma 2 binaries
-- design: alignment on `relateBy`
+- design: alignment on `relateBy` et al. ([issue](https://github.com/graphql-nexus/nexus-prisma/issues/598))
 
 #### `other`
 
@@ -71,7 +71,7 @@ Will be posted later
 
 ### E2E Tests for `nexus-plugin-prisma`
 
-![](nexus-plugin-prisma-e2e-test.png)
+![](nexus-plugin-prisma-e2e-tests.png)
 
 ### Initial Backng Types System
 
@@ -104,3 +104,7 @@ Will be posted later
 #### Schema API work
 
 ![](docs-schema-api.png)
+
+### Label Sync
+
+![](label-sync.png)
