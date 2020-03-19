@@ -50,7 +50,7 @@
 
 ## Video
 
-Will be posted later
+[![image](video.png)](https://prisma.zoom.us/rec/play/6MYlcOD6_DI3S9WX5ASDAKMqW9S7f6us1XMX86FZxU28ViZSY1CiMrZEZ-DA4lo8w0-B936AsjdXwanU?continueMode=true)
 
 ## Next Sprint
 
