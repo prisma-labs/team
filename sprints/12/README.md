@@ -62,8 +62,6 @@ _after_
 
 ![](nexus-server-express.png)
 
-### `nexus-plugin-prisma`
-
 ### Nexus Website
 
 ![](website-nv.png)
