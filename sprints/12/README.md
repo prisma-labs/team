@@ -20,11 +20,13 @@
   - improve: no ts-node in build system
   - improve: start module always inlines runtime plugins
 - `nexus-plugin-prisma`
-  - Support Prisma 2 preview 25
+  - feat: support Prisma 2 preview 25
+  - feat: no more auto-migrations
+  - feat: support for introspection workflow
 - Nexus website
-  - improved navigation
-  - standalone component docs
-  -
+  - Improved navigation
+  - Standalone component docs
+  - Code block height styles
 
 ## Video
 
@@ -32,6 +34,40 @@ Will be posted later
 
 ## Details
 
-### ...
+### `nexus-future`
 
-![](screenshot.png)
+#### feat: transitioned to nexus@0.20.0
+
+![](nexus-transition.png)
+
+#### perf: `nexus dev` refresh time `-1000ms`
+
+_before_
+
+![](nexus-before.png)
+
+_after_
+
+![](nexus-after.png)
+
+#### feat: tree shakable plugin runtimes
+
+![](nexus-plugin-shakable.png)
+
+#### design: plugin core deps design
+
+![](nexus-plugin-design.png)
+
+#### unfeat: removed `server.custom`
+
+![](nexus-server-express.png)
+
+### `nexus-plugin-prisma`
+
+### Nexus Website
+
+![](website-nv.png)
+
+![](website-max-height.png)
+
+![](website-max-height.png)
