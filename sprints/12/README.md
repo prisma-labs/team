@@ -30,7 +30,7 @@
 
 ## Video
 
-Will be posted later
+[![image](video.png)](https://prisma.zoom.us/rec/play/uZJ8Iez5-m43GYHG4QSDBPJxW9W7faus2iVM_vdYmk2zVSJXZFX0b7pDarDZRHSjEOHl-bZD_mudaqEP?continueMode=true&_x_zm_rtaid=OrxT6kZGRamoqAnAQOulVg.1585926930330.68a2bd635e5cdcb80e4ec461a92f5a2b&_x_zm_rhtaid=323)
 
 ## Details
 
